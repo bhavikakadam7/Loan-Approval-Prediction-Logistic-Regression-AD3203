@@ -218,7 +218,8 @@ Open the project notebook and execute the cells.
 
 **Student Roll Number:** AD3203
 
-**Individual Repository URL:** Add your published repository URL here.
+**Individual Repository URL:** https://github.com/bhavikakadam7/Loan-Approval-Prediction-Logistic-Regression-AD3203
+
 
 ## 13. Conclusion
 
